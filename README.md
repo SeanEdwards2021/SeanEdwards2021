@@ -46,6 +46,6 @@
 <hr>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=seanedwards2021&show_icons=true&locale=en" alt="seanedwards2021" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seanedwards2021&show_icons=true&locale=en&layout=compact" alt="seanedwards2021" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seanedwards2021&show_icons=true&locale=en&layout=compact" alt="seanedwards2021" /></p>
 
 
