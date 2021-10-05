@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Swansea, South Wales</h3>
 
 
-- 👩🏻‍🏫  I'm currently working as a **Data Analyst** at Amazon, located in Swansea, South Wales.
+- 👩🏻‍🏫  I'm currently working as a **Team Lead** at Amazon, located in Swansea, South Wales.
 - 👩🏻‍🎓  I'm also stydying towards **Web Development** Level 5 Diploma with  [Open Classrooms](https://openclassrooms.com/en// "Open Classrooms Homepage").
 - 🥅 2021 Goals:
     - 🛒 Create my first E-Commerce website
