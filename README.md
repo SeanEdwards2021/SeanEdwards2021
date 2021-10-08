@@ -8,7 +8,6 @@
     - 🛒 Create my first E-Commerce website
     - 🎓 Complete my Web Developer Level 5 Diploma
     - 💻 Get my first Front End Web Developer job
-    - 🌍 Go Travelling....Again!
 - 👨‍💻 All of my projects are available at [https://github.com/SeanEdwards2021?tab=repositories](https://github.com/SeanEdwards2021?tab=repositories)
 
 - 📫 How to reach me **SeanE301292@yahoo.com**
