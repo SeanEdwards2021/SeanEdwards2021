@@ -1,5 +1,5 @@
 ### <h2 align="center"> Hey 👋, I'm Sean Edwards!</h2>
-<h3 align="center">A passionate frontend developer from Swansea, South Wales</h3>
+<h3 align="center">A passionate full stack developer from Swansea, South Wales</h3>
 
 
 - 👩🏻‍🏫  I'm currently working as a **Team Lead** at Amazon, located in Swansea, South Wales.
