@@ -2,12 +2,10 @@
 <h3 align="center">A passionate full stack developer from Swansea, South Wales</h3>
 
 
-- 👩🏻‍🏫  I'm currently working as a **Team Lead** at Amazon, located in Swansea, South Wales.
+- 👩🏻‍🏫  I'm currently working as a **Data Analyst** at Amazon, located in Swansea, South Wales.
 - 👩🏻‍🎓  I'm also stydying towards **Web Development** Level 5 Diploma with  [Open Classrooms](https://openclassrooms.com/en// "Open Classrooms Homepage").
-- 🥅 2021 Goals:
-    - 🛒 Create my first E-Commerce website
+- 🥅 2022 Goals:
     - 🎓 Complete my Web Developer Level 5 Diploma
-    - 💻 Get my first Front End Web Developer job
 - 👨‍💻 All of my projects are available at [https://github.com/SeanEdwards2021?tab=repositories](https://github.com/SeanEdwards2021?tab=repositories)
 
 - 📫 How to reach me **SeanE301292@yahoo.com**
